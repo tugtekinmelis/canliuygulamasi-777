@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\bin\Debug\canli uygulamasi-777.exe.config
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\bin\Debug\canli uygulamasi-777.exe
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\bin\Debug\canli uygulamasi-777.pdb
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\obj\Debug\canli uygulamasi-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\obj\Debug\canli uygulamasi-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\obj\Debug\canli_uygulamasi_777.Form1.resources
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\obj\Debug\canli_uygulamasi_777.Properties.Resources.resources
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\obj\Debug\canli uygulamasi-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\obj\Debug\canli uygulamasi-777.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\obj\Debug\canli uygulamasi-777.exe
+C:\Users\User\source\repos\canli uygulamasi-777\canli uygulamasi-777\obj\Debug\canli uygulamasi-777.pdb
